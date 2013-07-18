@@ -7,8 +7,8 @@ memcpy to make sure that all doubles are aligned before accessing them.
 
 Last-Update: 2013-03-15
 ---
- src/mongo/bson/bsonelement.h |   16 +++++++++++++++-
- src/mongo/db/key.cpp         |    2 +-
+ src/mongo/bson/bsonelement.h | 16 +++++++++++++++-
+ src/mongo/db/key.cpp         |  2 +-
  2 files changed, 16 insertions(+), 2 deletions(-)
 
 diff --git a/src/mongo/bson/bsonelement.h b/src/mongo/bson/bsonelement.h

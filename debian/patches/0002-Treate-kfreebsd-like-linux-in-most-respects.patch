@@ -3,7 +3,7 @@ Date: Fri, 19 Apr 2013 08:15:18 -0500
 Subject: Treate kfreebsd like linux in most respects
 
 ---
- SConstruct |    4 +++-
+ SConstruct | 4 +++-
  1 file changed, 3 insertions(+), 1 deletion(-)
 
 diff --git a/SConstruct b/SConstruct

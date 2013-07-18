@@ -1,3 +1,11 @@
+mongodb (1:2.4.3-2) unstable; urgency=critical
+
+  * cherrypick of patch from SERVER-9983 to address CVE-2013-4650
+    (Closes: #715007, #717173)
+  * force use of TIME_UTC_ macro (Closes: #710639)
+
+ -- Antonin Kral <A.Kral@sh.cvut.cz>  Thu, 18 Jul 2013 15:53:00 +0200
+
 mongodb (1:2.4.3-1) unstable; urgency=low
 
   [ Jeff Epler ]

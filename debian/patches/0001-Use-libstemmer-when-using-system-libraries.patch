@@ -3,7 +3,7 @@ Date: Fri, 12 Apr 2013 23:50:07 -0300
 Subject: Use libstemmer when using system libraries.
 
 ---
- SConstruct |    4 +++-
+ SConstruct | 4 +++-
  1 file changed, 3 insertions(+), 1 deletion(-)
 
 diff --git a/SConstruct b/SConstruct

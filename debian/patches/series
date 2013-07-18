@@ -5,3 +5,5 @@
 0005-kfreebsd-does-not-have-sys-prctl.h.patch
 0006-ARM-support-for-ASM-operations-in-MongoDB.patch
 0007-Fix-ARM-alignment-problems.patch
+0008-cherry-picked-SERVER-9983-fixes-CVE-2013-4650.patch
+0009-Force-use-of-TIME_UTC_-macro.patch
